@@ -1,87 +1,99 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "e911",
+      "id": "cba5",
       "cityName": "Limassol",
       "country": "Cyprus",
       "emoji": "🇨🇾",
-      "date": "2024-12-09T18:37:09.759Z",
-      "notes": "hello from limassol",
+      "date": "2024-12-09T19:34:29.361Z",
+      "notes": "it is amazing",
       "position": {
-        "lat": "34.68050702823984",
-        "lng": "33.02028445069698"
+        "lat": "34.72109677791109",
+        "lng": "33.01384810666739"
       }
     },
     {
-      "id": "580d",
-      "cityName": "Villefranche",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-12-09T18:39:30.179Z",
-      "notes": "dfghjk",
+      "id": "46e4",
+      "cityName": "Havlickuv Brod",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2024-12-09T19:34:46.161Z",
+      "notes": "test",
       "position": {
-        "lat": "43.41968644928279",
-        "lng": "0.7737513231457261"
+        "lat": "49.615909629297754",
+        "lng": "15.576983802003548"
       }
     },
     {
-      "id": "22ed",
-      "cityName": "El Burgo de Ebro",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-12-09T18:42:41.716Z",
-      "notes": "rwgwrg",
+      "id": "bab1",
+      "cityName": "Paltamo",
+      "country": "Finland",
+      "emoji": "🇫🇮",
+      "date": "2024-12-09T19:34:51.804Z",
+      "notes": "trt",
       "position": {
-        "lat": "41.588688227903525",
-        "lng": "-0.7664473374805603"
+        "lat": "64.5477108955006",
+        "lng": "27.98109068744793"
       }
     },
     {
-      "id": "e0db",
-      "cityName": "Hassi Messaoud",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2024-12-09T18:42:49.431Z",
-      "notes": "efgrwg",
+      "id": "00ee",
+      "cityName": "Yrghyz",
+      "country": "Kazakhstan",
+      "emoji": "🇰🇿",
+      "date": "2024-12-09T19:34:56.995Z",
+      "notes": "sgdzbfdb",
       "position": {
-        "lat": "30.512140044525374",
-        "lng": "6.698400190547058"
+        "lat": "48.33487827567313",
+        "lng": "63.216176784763874"
+      }
+    },
+    {
+      "id": "1297",
+      "cityName": "Purba Tua",
+      "country": "Indonesia",
+      "emoji": "🇮🇩",
+      "date": "2024-12-09T19:35:00.900Z",
+      "notes": "sfg",
+      "position": {
+        "lat": "1.7362294174144632",
+        "lng": "99.00468367180989"
+      }
+    },
+    {
+      "id": "69f3",
+      "cityName": "Baie-James",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2024-12-09T19:35:05.436Z",
+      "notes": "x\\cva",
+      "position": {
+        "lat": "50.93922799214412",
+        "lng": "-76.82920331579349"
+      }
+    },
+    {
+      "id": "934d",
+      "cityName": "Higgins",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-12-09T19:35:43.401Z",
+      "notes": "advav",
+      "position": {
+        "lat": "36.1453852663347",
+        "lng": "-100.53600956677916"
+      }
+    },
+    {
+      "id": "eeef",
+      "cityName": "Villa de Cos",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2024-12-09T19:35:45.972Z",
+      "notes": "adva",
+      "position": {
+        "lat": "23.37038198208033",
+        "lng": "-102.10162193991202"
       }
     }
   ]
