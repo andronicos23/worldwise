@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "id": "cba5",
-      "cityName": "Limassol",
-      "country": "Cyprus",
-      "emoji": "🇨🇾",
-      "date": "2024-12-09T19:34:29.361Z",
-      "notes": "it is amazing",
-      "position": {
-        "lat": "34.72109677791109",
-        "lng": "33.01384810666739"
-      }
-    },
-    {
       "id": "46e4",
       "cityName": "Havlickuv Brod",
       "country": "Czechia",
@@ -94,6 +82,30 @@
       "position": {
         "lat": "23.37038198208033",
         "lng": "-102.10162193991202"
+      }
+    },
+    {
+      "id": "a45c",
+      "cityName": "Fiscal",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-12-09T20:02:19.563Z",
+      "notes": "dfsvdf",
+      "position": {
+        "lat": "42.5189928605388",
+        "lng": "-0.018350845176369205"
+      }
+    },
+    {
+      "id": "b7d1",
+      "cityName": "Eyjeaux",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-12-09T20:05:15.643Z",
+      "notes": "test",
+      "position": {
+        "lat": "45.78250936093807",
+        "lng": "1.3678279493872927"
       }
     }
   ]
