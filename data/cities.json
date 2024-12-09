@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,55 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "e911",
+      "cityName": "Limassol",
+      "country": "Cyprus",
+      "emoji": "🇨🇾",
+      "date": "2024-12-09T18:37:09.759Z",
+      "notes": "hello from limassol",
+      "position": {
+        "lat": "34.68050702823984",
+        "lng": "33.02028445069698"
+      }
+    },
+    {
+      "id": "580d",
+      "cityName": "Villefranche",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-12-09T18:39:30.179Z",
+      "notes": "dfghjk",
+      "position": {
+        "lat": "43.41968644928279",
+        "lng": "0.7737513231457261"
+      }
+    },
+    {
+      "id": "22ed",
+      "cityName": "El Burgo de Ebro",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-12-09T18:42:41.716Z",
+      "notes": "rwgwrg",
+      "position": {
+        "lat": "41.588688227903525",
+        "lng": "-0.7664473374805603"
+      }
+    },
+    {
+      "id": "e0db",
+      "cityName": "Hassi Messaoud",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-12-09T18:42:49.431Z",
+      "notes": "efgrwg",
+      "position": {
+        "lat": "30.512140044525374",
+        "lng": "6.698400190547058"
+      }
     }
   ]
 }
