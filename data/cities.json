@@ -13,18 +13,6 @@
       }
     },
     {
-      "id": "bab1",
-      "cityName": "Paltamo",
-      "country": "Finland",
-      "emoji": "🇫🇮",
-      "date": "2024-12-09T19:34:51.804Z",
-      "notes": "trt",
-      "position": {
-        "lat": "64.5477108955006",
-        "lng": "27.98109068744793"
-      }
-    },
-    {
       "id": "00ee",
       "cityName": "Yrghyz",
       "country": "Kazakhstan",
@@ -106,6 +94,18 @@
       "position": {
         "lat": "45.78250936093807",
         "lng": "1.3678279493872927"
+      }
+    },
+    {
+      "id": "ae6a",
+      "cityName": "Spercheiada",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2024-12-09T20:11:23.484Z",
+      "notes": "heelo",
+      "position": {
+        "lat": "38.90813299596705",
+        "lng": "21.97296294466219"
       }
     }
   ]
